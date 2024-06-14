@@ -1,4 +1,4 @@
-use salesdatabase;
+-- use salesdatabase;
 select * from averagetime;
 -- Average time spent on social media by users 
 SELECT AVG(time_spent) AS average_time_spent FROM averagetime;
